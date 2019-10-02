@@ -1,7 +1,5 @@
 layout: sidebar
-style: light
-
-title: Sherif Abdel-Naby
+style: dark
 
 plugins:
   - jekyll-octicons
