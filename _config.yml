@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -28,23 +28,23 @@ projects:
     projects:
     # - repo-name
 
- social_media:
-  # behance: sherifabdlnaby
-  # dribbble: sherifabdlnaby
-   facebook: sherifabdlnaby
-  # hackerrank: sherifabdlnaby
-   instagram: sherifabdlnaby
-  # keybase: sherifabdlnaby
-   linkedin: sherifabdlnaby
-  # mastodon: sherifabdlnaby
-  # medium: sherifabdlnaby
-  # stackoverflow: your_user_id
-  # telegram: sherifabdlnaby
-   twitter: sherifabdlnaby
-  # unsplash: sherifabdlnaby
-  # vk: sherifabdlnaby
-#   website: http://sherif.dev
-  # youtube: sherifabdlnaby
+# social_media:
+#  # behance: sherifabdlnaby
+#  # dribbble: sherifabdlnaby
+#   facebook: sherifabdlnaby
+#  # hackerrank: sherifabdlnaby
+#   instagram: sherifabdlnaby
+#  # keybase: sherifabdlnaby
+#   linkedin: sherifabdlnaby
+#  # mastodon: sherifabdlnaby
+#  # medium: sherifabdlnaby
+#  # stackoverflow: your_user_id
+#  # telegram: sherifabdlnaby
+#   twitter: sherifabdlnaby
+#  # unsplash: sherifabdlnaby
+#  # vk: sherifabdlnaby
+##   website: http://sherif.dev
+#  # youtube: sherifabdlnaby
 
 topics:
   - name: Go
