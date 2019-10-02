@@ -119,21 +119,21 @@ Your website supports linking and sharing to social media services you're using,
 
 ```
 social_media:
-  behance: your_username
-  dribbble: your_username  
-  facebook: your_username
-  hackerrank: your_username
-  instagram: your_username
-  keybase: your_username
-  linkedin: your_username
-  medium: your_username
+  behance: sherifabdlnaby
+  dribbble: sherifabdlnaby  
+  facebook: sherifabdlnaby
+  hackerrank: sherifabdlnaby
+  instagram: sherifabdlnaby
+  keybase: sherifabdlnaby
+  linkedin: sherifabdlnaby
+  medium: sherifabdlnaby
   stackoverflow: your_user_id
-  telegram: your_username
-  twitter: your_username
-  unsplash: your_username
-  vk: your_username
+  telegram: sherifabdlnaby
+  twitter: sherifabdlnaby
+  unsplash: sherifabdlnaby
+  vk: sherifabdlnaby
   website: http://your_website_url
-  youtube: your_username
+  youtube: sherifabdlnaby
 ```
 
 Links to your profile for each of the services you define will appear in the `<header>` of your website, appended to your bio. And if those services support sharing, any blog posts that you publish will include links to share that post using each social media service.

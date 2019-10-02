@@ -1,5 +1,7 @@
 layout: sidebar
-style: light
+style: dark
+
+title: Sherif Abdel-Naby
 
 plugins:
   - jekyll-octicons
@@ -17,7 +19,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -28,31 +30,45 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
-  # keybase: your_username
-  # linkedin: your_username
-  # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
-  # unsplash: your_username
-  # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+ social_media:
+   facebook: sherifabdlnaby
+   instagram: sherifabdlnaby
+   github: sherifabdlnaby
+   linkedin: sherifabdlnaby
+   medium: sherifabdlnaby
+   twitter: sherifabdlnaby
+   website: http://sherif.dev
+   youtube: sherifabdlnaby
+
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Go
+    web_url: https://github.com/topics/golang
+    image_url: https://i1.wp.com/colby.io/wp-content/uploads/2018/03/81630ec2-d253-4eb2-b36c-eb54072cb8d6-golang.png
 
-  - name: Web design
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Kubernetes
+    web_url: https://github.com/topics/kubernetes
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png
+
+  - name: Site Reliability
+    web_url: https://github.com/topics/sre
+
+  - name: Observability
+    web_url: https://github.com/topics/observability
+
+  - name: Elastic Stack
+    web_url: https://github.com/topics/elk
+
+  - name: Scalability
+    web_url: https://github.com/topics/scalability
+
+  - name: Distributed Systems
+    web_url: https://github.com/topics/distributed-systems
