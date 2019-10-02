@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -37,11 +37,6 @@ projects:
    twitter: sherifabdlnaby
    website: http://sherif.dev
    youtube: sherifabdlnaby
-
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
 
 topics:
   - name: Go
