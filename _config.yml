@@ -28,11 +28,14 @@ projects:
     projects:
     # - repo-name
 
- social_media:
-   facebook: sherifabdlnaby
-   instagram: sherifabdlnaby
-   linkedin: sherifabdlnaby
-   twitter: sherifabdlnaby
+social_media:
+  linkedin: sherifabdlnaby
+  github: sherifabdlnaby
+  facebook: sherifabdlnaby
+  instagram: sherifabdlnaby
+  twitter: sherifabdlnaby
+  website: http://sherif.dev
+
 
 topics:
   - name: Go
